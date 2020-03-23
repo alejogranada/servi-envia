@@ -60,29 +60,28 @@ Siguiendo los lineamientos de este propósito para la organización, se debe con
 − Consultar estado de una guía.
 
 
-
 Para este propósito se ve la posibilidad de contar con la ayuda de 2 Especialistas en Desarrollo de Software que puedan resolver dicho aplicativo, teniendo en cuenta:
 
 
-• Se debe realizar un sistema funcional en modo Web Service mediante la
-tecnología ASMX, WCF ó Web API en .NET.
+	• Se debe realizar un sistema funcional en modo Web Service mediante la
+	tecnología ASMX, WCF ó Web API en .NET.
 
-• Usando Base de Datos SQL Server para guardar/consultar los datos.
+	• Usando Base de Datos SQL Server para guardar/consultar los datos.
 
-• El servicio debe estar desplegado en un Entorno Cloud (SaaS).
+	• El servicio debe estar desplegado en un Entorno Cloud (SaaS).
 
-• Implementación de cliente, que pueda consumir dicho servicio: App.
-Escritorio - App. Consola - App. Web - App. Móvil, en cualquier lenguaje de
-programación (Java, Python, PHP, Android, C#, Visual Basic, JSP, etc.).
+	• Implementación de cliente, que pueda consumir dicho servicio: App.
+	Escritorio - App. Consola - App. Web - App. Móvil, en cualquier lenguaje de
+	programación (Java, Python, PHP, Android, C#, Visual Basic, JSP, etc.).
 
-• Enviar documentación de Manual de usuario con lo realizado (servicio y
-cliente).
+	• Enviar documentación de Manual de usuario con lo realizado (servicio y
+	cliente).
 
-• Incluir enlace dónde se encuentra alojado el Web Service.
+	• Incluir enlace dónde se encuentra alojado el Web Service.
 
-• Adjuntar binarios del Servicio y de la App. Cliente.
+	• Adjuntar binarios del Servicio y de la App. Cliente.
 
-• Enviar Scripts de BD Full (Creación de BD, Tablas y sus datos).
+	• Enviar Scripts de BD Full (Creación de BD, Tablas y sus datos).
 
-• Adjuntar un corto video con el aplicativo funcionando, servicio recibiendo
-peticiones y BD con registros.
+	• Adjuntar un corto video con el aplicativo funcionando, servicio recibiendo
+	peticiones y BD con registros.
